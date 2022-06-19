@@ -8,4 +8,7 @@ Developed an window interface using Java for verification of vehicle details for
 - Dynamic Captcha is used for security.
 - Just enter the vehicle registration number and check for any challans.
 
+**Replicated**
+[Telangana RTO e-Challan](https://echallan.tspolice.gov.in/publicview/) - inspired interface.
+
 Good day!
